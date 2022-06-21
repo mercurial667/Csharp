@@ -1,0 +1,15 @@
+/Users/janinkhandzhiyan/Desktop/gb/C#/homework1/bin/Debug/net6.0/homework1
+/Users/janinkhandzhiyan/Desktop/gb/C#/homework1/bin/Debug/net6.0/homework1.deps.json
+/Users/janinkhandzhiyan/Desktop/gb/C#/homework1/bin/Debug/net6.0/homework1.runtimeconfig.json
+/Users/janinkhandzhiyan/Desktop/gb/C#/homework1/bin/Debug/net6.0/homework1.dll
+/Users/janinkhandzhiyan/Desktop/gb/C#/homework1/bin/Debug/net6.0/homework1.pdb
+/Users/janinkhandzhiyan/Desktop/gb/C#/homework1/obj/Debug/net6.0/homework1.csproj.AssemblyReference.cache
+/Users/janinkhandzhiyan/Desktop/gb/C#/homework1/obj/Debug/net6.0/homework1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janinkhandzhiyan/Desktop/gb/C#/homework1/obj/Debug/net6.0/homework1.AssemblyInfoInputs.cache
+/Users/janinkhandzhiyan/Desktop/gb/C#/homework1/obj/Debug/net6.0/homework1.AssemblyInfo.cs
+/Users/janinkhandzhiyan/Desktop/gb/C#/homework1/obj/Debug/net6.0/homework1.csproj.CoreCompileInputs.cache
+/Users/janinkhandzhiyan/Desktop/gb/C#/homework1/obj/Debug/net6.0/homework1.dll
+/Users/janinkhandzhiyan/Desktop/gb/C#/homework1/obj/Debug/net6.0/refint/homework1.dll
+/Users/janinkhandzhiyan/Desktop/gb/C#/homework1/obj/Debug/net6.0/homework1.pdb
+/Users/janinkhandzhiyan/Desktop/gb/C#/homework1/obj/Debug/net6.0/homework1.genruntimeconfig.cache
+/Users/janinkhandzhiyan/Desktop/gb/C#/homework1/obj/Debug/net6.0/ref/homework1.dll
