@@ -27,7 +27,7 @@ else
     Console.WriteLine($"Число {b} больше чем число {a}");
 }
 
-   // 2.
+   //2.
 Console.WriteLine("Введите первое число: ");
 int z = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите второе число: ");
