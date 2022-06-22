@@ -14,48 +14,51 @@
 // числа от 1 до N.
 
     //1.
-// Console.WriteLine("Введите первое число: ");
-// int a = Convert.ToInt32(Console.ReadLine());
-// Console.WriteLine("Введите второе число: ");
-// int b = Convert.ToInt32(Console.ReadLine());
-// if (a > b)
-// {
-//     Console.WriteLine($"Число {a} больше чем число {b}");
-// }
-// else 
-// {
-//     Console.WriteLine($"Число {b} больше чем число {a}");
-// }
+Console.WriteLine("Введите первое число: ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите второе число: ");
+int b = Convert.ToInt32(Console.ReadLine());
+if (a > b)
+{
+    Console.WriteLine($"Число {a} больше чем число {b}");
+}
+else 
+{
+    Console.WriteLine($"Число {b} больше чем число {a}");
+}
 
-    //2.
-// Console.WriteLine("Введите первое число: ");
-// int z = Convert.ToInt32(Console.ReadLine());
-// Console.WriteLine("Введите второе число: ");
-// int x = Convert.ToInt32(Console.ReadLine());
-// Console.WriteLine("Введите третье число: ");
-// int c = Convert.ToInt32(Console.ReadLine());
-// if (z > x)
-// {
-//     if (z > c) Console.WriteLine($"Число {z} максимальное");
-//     else Console.WriteLine($"Число {c} максимальное");
-// }
-// else 
-// {
-//     if (x>c) Console.WriteLine($"Число {x} максимальное");
-// }
+   // 2.
+Console.WriteLine("Введите первое число: ");
+int z = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите второе число: ");
+int x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите третье число: ");
+int c = Convert.ToInt32(Console.ReadLine());
+if (z > x)
+{
+    if (z > c) Console.WriteLine($"Число {z} максимальное");
+    else Console.WriteLine($"Число {c} максимальное");
+}
+else 
+{
+    if (x>c) Console.WriteLine($"Число {x} максимальное");
+}
 
     //3.
-// Console.WriteLine("Введите число: ");
-// int q = Convert.ToInt32(Console.ReadLine());
-// if (q % 2 == 0 )
-// {
-//     Console.WriteLine("Четное");
-// }
-// else 
-// {
-//     Console.WriteLine("Нечетное");
-// }
+Console.WriteLine("Введите число: ");
+int q = Convert.ToInt32(Console.ReadLine());
+if (q % 2 == 0 )
+{
+     Console.WriteLine("Четное");
+ }
+ else 
+ {
+     Console.WriteLine("Нечетное");
+ }
 
     //4.
 Console.WriteLine("Введите число: ");
-int w = Convert.ToInt32(Console.ReadLine());
+ int w = Convert.ToInt32(Console.ReadLine());
+
+for(int i =2;i<=w;i+=2)
+Console.WriteLine(i);
