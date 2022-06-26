@@ -42,6 +42,7 @@ if (z > x)
 else 
 {
     if (x>c) Console.WriteLine($"Число {x} максимальное");
+   else Console.WriteLine($"Число {c} максимальное");
 }
 
     //3.
